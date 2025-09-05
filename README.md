@@ -4,9 +4,6 @@
 ## Author
 Hajar Essalihi
 GitHub: [hajar1010](https://github.com/hajar1010)
-edX: HE_2509_SEF9
-Location: Taroudant,Morocco
-Date Recorded: 02/09/2025
 
 ---
 
@@ -49,4 +46,5 @@ Several design choices were made to balance simplicity, modularity, and testabil
 
 ## Conclusion
 The Game Hub project demonstrates foundational Python programming skills, including functions, modules, user input handling, loops, and basic game logic. It emphasizes modularity, reusability, and testability while providing a fun interactive experience. The project is structured to allow easy expansion with additional games or features, such as a leaderboard, timers, or category selection in the quiz. Overall, this project consolidates multiple Python concepts into a single cohesive program suitable for both learning and demonstration purposes.
+
 
